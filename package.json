@@ -1,0 +1,24 @@
+{
+  "name": "l.line3",
+  "private": false,
+  "description": "L-Line3 -  A Leaflet add-on for 3d vector lines",
+  "version": "0.1.0",
+  "homepage": "http://keks.com",
+  "author": "@kekscom",
+  "contributors": [
+    "Jan Marsch <jama@keks.com>"
+  ],
+  "maintainers": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kekscom/line3.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "Color": "git+https://github.com/kekscom/Color.js",
+    "jshint": "~1.1.0",
+	  "closure-compiler": "~0.2.0"
+  },
+  "optionalDependencies": {}
+}
