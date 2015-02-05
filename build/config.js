@@ -30,9 +30,9 @@ exports.srcFiles = [
 ];
 
 exports.dstFiles = {
-  debug:    dstPath + '/L.Lines3.debug.js',
-  minified: dstPath + '/L.Lines3.js',
-  gzipped:  dstPath + '/L.Lines3.js.gz'
+  debug:    dstPath + '/L.Line3.debug.js',
+  minified: dstPath + '/L.Line3.js',
+  gzipped:  dstPath + '/L.Line3.js.gz'
 };
 
 exports.engines = ['Leaflet'];

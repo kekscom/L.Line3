@@ -745,6 +745,10 @@ var osmb = function(geojson) {
 
 var proto = osmb.prototype = L.Layer ? new L.Layer() : {};
 
+proto.addTo = function(map) {
+  map.addLayer(this);
+};
+
 proto.onAdd = function(map) {
   this.map = map;
   Layers.appendTo(map._panes.overlayPane);

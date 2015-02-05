@@ -1,6 +1,6 @@
 L.Line3 is Leaflet map layer for drawing 3D vector lines.
 
-**Example** http://keks.com/examples/Line3
+**Example** http://keks.com/dev/line3
 
 ## Documentation
 
