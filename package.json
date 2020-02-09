@@ -1,7 +1,7 @@
 {
   "name": "l.line3",
   "private": false,
-  "description": "L.Line3 - A Leaflet add-on for 3d vector lines",
+  "description": "L.Line3 is a Leaflet layer for showing 3D vector lines.\n",
   "version": "0.2.0",
   "homepage": "https://osmbuildings.org",
   "author": "@kekscom",
