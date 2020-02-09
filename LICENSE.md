@@ -1,4 +1,4 @@
-Copyright (c) 2015, Jan Marsch @kekscom
+Copyright (c) 2020, Jan Marsch @kekscom
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are
